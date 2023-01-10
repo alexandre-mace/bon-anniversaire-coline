@@ -33,7 +33,7 @@ export default function Home() {
       <>
         <Head>
           <title>Anniversaire Coline</title>
-          <meta name="description" content="C'est l'anniversaire de Valentine"/>
+          <meta name="description" content="C'est l'anniversaire de Coline"/>
           <meta name="viewport" content="width=device-width, initial-scale=1"/>
           <link rel="icon"
                 href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/wrapped-gift_1f381.png"/>
